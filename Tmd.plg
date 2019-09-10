@@ -1,0 +1,215 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Tmd - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\xuxx\AppData\Local\Temp\RSP5100.tmp" with contents
+[
+/nologo /Zp1 /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Tmd.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\PRGM\p04B6\TmdDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\xuxx\AppData\Local\Temp\RSP5100.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Tmd.pdb" /debug /machine:I386 /out:"Debug/Tmd.exe" /pdbtype:sept  .\Debug\StdAfx.obj .\Debug\Tmd.obj .\Debug\TmdDlg.obj .\Debug\Tmd.res "
+<h3>Output Window</h3>
+Compiling...
+TmdDlg.cpp
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'af' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(380) : warning C4101: 'fs' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'f3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'A' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'Q' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'f4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'r3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'R' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'k1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'g2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'k2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(379) : warning C4101: 'fw' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'La' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'mean' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'max' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'k3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'v' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'f' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'k4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(386) : warning C4101: 'wd' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(381) : warning C4101: 'offset' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'g' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'x' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'Q0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'y' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'fl' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'A2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'Ua' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'z' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'i0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'j' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'Q2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(376) : warning C4101: 'k' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'i1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'min' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(376) : warning C4101: 'n' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'kcnt' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'wk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'j0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(385) : warning C4101: 'flg' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(378) : warning C4101: 'La2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(377) : warning C4101: 'Qinv' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(375) : warning C4101: 'j1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(474) : warning C4305: '=' : truncation from 'const double' to 'float'
+D:\PRGM\p04B6\TmdDlg.cpp(475) : warning C4305: '=' : truncation from 'const double' to 'float'
+D:\PRGM\p04B6\TmdDlg.cpp(465) : warning C4101: 'k1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'af' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(555) : warning C4101: 'fs' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'f4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'r3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'R' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'r' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'g2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'k2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(554) : warning C4101: 'fw' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'f7' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'mean' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'max' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'k3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'k4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'g' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'x' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'Q0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'y' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'fl' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'A2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'Ua' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'z' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'i0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(551) : warning C4101: 'k' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'i1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(552) : warning C4101: 'min' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(551) : warning C4101: 'n' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'kcnt' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'wk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(550) : warning C4101: 'j0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'rot' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(553) : warning C4101: 'La2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1229) : warning C4101: 'fr' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1230) : warning C4101: 'fs' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'f3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'A' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'f4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'r3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'R' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'r' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1225) : warning C4101: 'k1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1225) : warning C4101: 'k2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1229) : warning C4101: 'fw' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'La' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'U' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'mean' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'max' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1225) : warning C4101: 'k3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'g' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'fj' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'x' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'fk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'Q0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'y' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'fl' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'A2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'z' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1226) : warning C4101: 'k' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1225) : warning C4101: 'i1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1227) : warning C4101: 'min' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1226) : warning C4101: 'l' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1229) : warning C4101: 'fp' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1226) : warning C4101: 'n' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1225) : warning C4101: 'kcnt' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1225) : warning C4101: 'wk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1228) : warning C4101: 'La2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1477) : warning C4101: 'fr' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1478) : warning C4101: 'fs' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'f4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'R' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'r' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1473) : warning C4101: 'k1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1473) : warning C4101: 'k2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1477) : warning C4101: 'fw' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'f7' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'mean' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'max' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'f' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1484) : warning C4101: 'wd' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'g' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'fk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'Q0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'fl' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'A2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'Ua' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1474) : warning C4101: 'k' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1473) : warning C4101: 'i1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1475) : warning C4101: 'min' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1474) : warning C4101: 'n' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1473) : warning C4101: 'kcnt' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1473) : warning C4101: 'wk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1483) : warning C4101: 'flg' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1476) : warning C4101: 'La2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1473) : warning C4101: 'j1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1671) : warning C4101: 'fr' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'af' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1672) : warning C4101: 'fs' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'f3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'A' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'Q' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'f4' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'r3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'R' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'r' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'g2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1667) : warning C4101: 'k2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1671) : warning C4101: 'fw' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'La' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'f7' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'U' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'mean' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'max' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1667) : warning C4101: 'k3' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'v' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1673) : warning C4101: 'offset' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'g' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'fi' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'fj' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'x' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'fk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'Q0' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'y' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'fl' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'A2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'Ua' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'z' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1673) : warning C4101: 'cntr' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'Q2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1668) : warning C4101: 'k' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1667) : warning C4101: 'i1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'min' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1668) : warning C4101: 'l' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1671) : warning C4101: 'fp' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1668) : warning C4101: 'n' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1667) : warning C4101: 'kcnt' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1667) : warning C4101: 'wk' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'rot' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1670) : warning C4101: 'La2' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1669) : warning C4101: 'Qinv' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1667) : warning C4101: 'j1' : unreferenced local variable
+D:\PRGM\p04B6\TmdDlg.cpp(1940) : warning C4305: '-=' : truncation from 'const double' to 'float'
+Linking...
+libcmtd.lib(crt0init.obj) : warning LNK4098: defaultlib "libc.lib" conflicts with use of other libs; use /NODEFAULTLIB:library
+
+
+
+<h3>Results</h3>
+Tmd.exe - 0 error(s), 188 warning(s)
+</pre>
+</body>
+</html>
